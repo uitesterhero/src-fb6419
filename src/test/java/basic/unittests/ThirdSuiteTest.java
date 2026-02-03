@@ -22,7 +22,6 @@ public class ThirdSuiteTest {
         System.out.println("thirdTest3 successful!");
     } 
    
-*/
     /* Comment out from here to the end for the original file  
     @Disabled
     @Test
